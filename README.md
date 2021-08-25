@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajdeepMote
 - 👀 I’m interested in Java.
 - 🌱 I’m currently learning Java
-- 📫 reach me at moteraajdeep@gmail.com
+- 📫 reach me at moterajdeep@gmail.com
 
 <!---
 RajdeepMote/RajdeepMote is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
